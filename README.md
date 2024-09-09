@@ -1,6 +1,3 @@
-## Hi there 👋
-Here are some ideas to fill in the blanks in your introduction:
-
 - 👋 Hi, I’m @hallosvi  
 - 👀 I’m interested in making new connections and exploring creative projects     
 - 💞️ I’m looking to collaborate on tech projects
